@@ -1,0 +1,33 @@
+{
+    "sheets": [
+        {
+            "sheetName": "basics",
+            "rows": [
+                {
+                    "id": "1",
+                    "sentence": "こんにちは。",
+                    "enabled": "true",
+                    "note": "日中の挨拶"
+                },
+                {
+                    "id": "2",
+                    "sentence": "おはようございます。",
+                    "enabled": "true",
+                    "note": "朝〜午前中の挨拶"
+                },
+                {
+                    "id": "4",
+                    "sentence": "よろしくお願いいたします。",
+                    "enabled": "true",
+                    "note": "幅広く使える"
+                },
+                {
+                    "id": "5",
+                    "sentence": "それは何よりですね。",
+                    "enabled": "true",
+                    "note": "・相槌をうつときに使う\n・少し上から目線になる可能性もあるかも"
+                }
+            ]
+        }
+    ]
+}
